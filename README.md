@@ -1,4 +1,4 @@
-# HeatMethodForGeodesicDistance
+# Computing the Geodesic Distance using the Heat Method
 Computing the Geodesic distance using the heat method
 
 For a detailed description of this project check this [document.](https://choudrouge4.github.io/pdfs/cggbohf.pdf)
